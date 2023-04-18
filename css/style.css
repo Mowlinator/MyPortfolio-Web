@@ -325,7 +325,7 @@ textarea {
           font-size: 1.7rem; } }
 
 .contact {
-  background: linear-gradient(to right, rgba(112, 117, 122, 0.767), rgba(39, 45, 50, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(112, 117, 122, 0.767), rgba(39, 45, 50, 0.8)), url(https://raw.githubusercontent.com/Mowlinator/MyPortfolio-Web/master/assets/svg/common-bg.svg);
   background-size: cover;
   background-position: center; }
   .contact__form-container {
