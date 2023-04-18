@@ -185,7 +185,7 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background: linear-gradient(to right, rgba(112, 117, 122, 0.767), rgba(39, 45, 50, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(112, 117, 122, 0.767), rgba(39, 45, 50, 0.8)), url(https://github.com/Mowlinator/MyPortfolio-Web/blob/main/assets/svg/common-bg.svg);
   background-position: center;
   height: 100vh;
   min-height: 80rem;
